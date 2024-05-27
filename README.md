@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300px&color=gradient&text=Hi%20👋,%20I'm%20Aman%20Jain&reversal=false&textBg=false&animation=twinkling/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20👋,%20I'm%20Aman%20Jain&reversal=false&textBg=false&animation=twinkling/>
 </p>
 
 # 💫 Hi 👋, I'm Aman Jain
@@ -8,9 +8,7 @@
 
 
 # 🌐 Connect With Me:
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://tenor.com/view/instagram-logo-gif-26157222"/>
-</a>
+<a href="https://instagram.com/https://www.instagram.com/amanjain.hi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/amanjain.hi/" height="30" width="40" /></a>
 
 <img height="350px" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
