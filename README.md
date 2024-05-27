@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=198&color=gradient&text=Hi%20👋,%20I'm%20Aman%20Jain&reversal=false&textBg=false&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=Hi%20👋,%20I'm%20Aman%20Jain&reversal=false&textBg=false&animation=twinkling"/>
 </p>
 
 👨‍💻 I have completed my B.tech from JECRC College.<br>🌱 I’m currently learning and exploring new technologies.<br>👯 I’m looking to collaborate on exciting and impactful projects.<br>💬 Ask me about frontend development and MERN stack development.<br>📫 You can reach me at [Hi.jainaman@gmail.com] <br>⚡ I enjoy swimming and singing and playing badminton.
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hi-aman-jain&label=Profile%20views&color=0e75b6&style=flat" alt="hi-aman-jain" /> </p>
 <p align="left">
-
+  
 # 🌐 Connect With Me:
 
 <a href="https://twitter.com/https://x.com/aman_jain19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/aman_jain19" height="50" width="60" /></a> 
@@ -28,5 +29,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=198&color=gradient&reversal=true&textBg=false&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&reversal=true&"/>
 </p>
