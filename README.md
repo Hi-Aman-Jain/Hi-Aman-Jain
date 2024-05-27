@@ -1,11 +1,6 @@
 # 💫 Hi 👋, I'm Aman Jain
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20👋,%20I'm%20Aman%20Jain&reversal=false&textBg=false&animation=twinkling/>
-</p>
-
 👨‍💻 I have completed my B.tech from JECRC College.<br>🌱 I’m currently learning and exploring new technologies.<br>👯 I’m looking to collaborate on exciting and impactful projects.<br>💬 Ask me about frontend development and MERN stack development.<br>📫 You can reach me at [Hi.jainaman@gmail.com] <br>⚡ I enjoy swimming and singing and playing badminton.
-
 
 # 🌐 Connect With Me:
 
@@ -22,4 +17,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-![](https://visitcount.itsvg.in/api?id=Hi-Aman-Jain&icon=2&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=Hi-Aman-Jain&icon=2&color=0)
