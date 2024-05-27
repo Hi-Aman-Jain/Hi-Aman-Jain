@@ -10,11 +10,10 @@
 # 🌐 Connect With Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100014735595231) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/amanjain.hi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aman-jain-btech-it24/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Aman_Jain19) 
 
-<img height="50" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img height="500px" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-<a href="https://www.instagram.com/amanjain.hi/">
-  <img height="50" src="![image](https://github.com/Hi-Aman-Jain/Hi-Aman-Jain/assets/87036083/bd634fc4-924f-4732-b020-4b2d13ac73ac)
-"/>
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 
 # 💻 My Tech Stack:
