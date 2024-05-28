@@ -28,5 +28,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Thanks&section=header&reversal=true&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Thanks%20&section=footer&reversal=true&animation=twinkling&descSize=-10"/>
 </p>
