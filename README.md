@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Hi%20👋,%20I'm%20Aman%20Jain&reversal=false&textBg=false&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Hi%20👋,%20I'm%20Aman%20Jain&section=header&reversal=true&animation=twinkling"/>
 </p>
 
 👨‍💻 I have completed my B.tech from JECRC College.<br>🌱 I’m currently learning and exploring new technologies.<br>👯 I’m looking to collaborate on exciting and impactful projects.<br>💬 Ask me about frontend development and MEARN stack development.<br>📫 You can reach me at Hi.jainaman@gmail.com <br>⚡ I enjoy swimming, singing and playing badminton. <br>
@@ -28,5 +28,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Thanks%20&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Thanks&section=header&reversal=true&animation=twinkling"/>
 </p>
