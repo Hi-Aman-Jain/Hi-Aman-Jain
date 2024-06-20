@@ -11,8 +11,15 @@
 #### 📫 You can reach me at Hi.jainaman@gmail.com 
 #### ⚡ I enjoy swimming, singing and playing badminton. 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hi-aman-jain&label=Profile%20views&color=0e75b6&style=flat" alt="hi-aman-jain" /> </p>
-  
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hi-aman-jain&label=Profile%20views&color=0e75b6&style=flat" alt="hi-aman-jain" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Hi-Aman-Jain">
+    <img src="https://img.shields.io/github/followers/Hi-Aman-Jain?label=Follow%20Me&style=social" alt="GitHub followers" />
+  </a>
+</p>
+
 # 🌐 Let's Connect and have a Chat!💬
 
 <a href="https://twitter.com/aman_jain19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aman_jain19" height="45" width="55" /></a>
