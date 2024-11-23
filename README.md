@@ -7,7 +7,7 @@
 #### 👨‍💻 I have completed my B.tech from JECRC College. 
 #### 🌱 I’m currently learning and exploring new technologies.
 #### 👯 I’m looking to collaborate on exciting and impactful projects.
-#### 💬 Ask me about frontend and MEARN stack development.
+#### 💬 You can ask me about frontend and Salesforce development.
 #### 📫 You can reach me at Hi.jainaman@gmail.com 
 #### ⚡ I enjoy swimming, singing and playing badminton. 
 <br>
